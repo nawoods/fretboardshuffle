@@ -1,0 +1,22 @@
+#fretparent {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+#greendot {
+	width: 10px;
+	height: 10px;
+	left: 591px;
+	top: 8px;
+	position: absolute;
+}
+
+#fretboard {
+	width: 600px;
+	height: 100px;
+	top: 0;
+	left: 0;
+	position: relative;
+}
+
